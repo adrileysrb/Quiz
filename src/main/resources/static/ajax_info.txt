@@ -1,0 +1,57 @@
+[
+	{
+		"question":"Em javascript, qual a diferença entre Set e Map?",
+		"answer_01":"Map se parecem com objetos, tem chaves e valores, chaves únicas enquanto o Set se parecem com arrays, lidam apenas com valores, estes únicos, diferente de um array em que se pode ter valores repetidos.",
+		"answer_02":"Map se parecem com strings, são utilizados para a manipulação de strings e Set é utilizado para manipulação de números",
+		"answer_03":"Set é utilizado para setar dados e Map mapear dados em uma função.",
+		"answer_04":"Map se parecem com strings, são utilizados somente para exibir texto enquanto Set é utilizado para exibir números.",
+		"answer_01_value":"true",
+		"answer_02_value":"",
+		"answer_03_value":"",
+		"answer_04_value":""
+	},	
+	{
+		"question":"O que é closure em javascript?",
+		"answer_01":"Closure é um recurso em JavaScript em que facilita a utilização de expressões algébricas.",
+		"answer_02":"Closure é um recurso em JavaScript em que uma função interna tem acesso às variáveis ​​da função externa (envolvente) - uma cadeia de escopo.",
+		"answer_03":"Closure é um framework utilizado para a criação de layouts que se adaptam a telas de diferentes tamanhos.",
+		"answer_04":"Closure é uma biblioteca de funções JavaScript que interage com o HTML, desenvolvida para simplificar os scripts interpretados no navegador do cliente (client-side).",
+		"answer_01_value":"",
+		"answer_02_value":"true",
+		"answer_03_value":"",
+		"answer_04_value":""
+	},	
+	{
+		"question":"No CSS, qual a diferença entre pseudo-classes e pseudo-elementos?",
+		"answer_01":"Pseudo-classe é quando se nomeia uma classe CSS com outro nome temporário e pseudo-elemento e quando é feito o equivalente, só que com elementos.",
+		"answer_02":"Pseudo-classe altera o estado de um elemento enquanto pseudo-elemento alteram parte específica de um elemento em questão.",
+		"answer_03":"Pseudo-elemento é um elemento que não e exibido, e pseudo-classe é uma classe que não é exibida.",
+		"answer_04":"Pseudo-classe são estruturas de dados comumente utilizadas para a manipulação de arrays de objetos e pseudo-elemento são para lidar com arrays de tipos especificos de dados.",
+		"answer_01_value":"",
+		"answer_02_value":"true",
+		"answer_03_value":"",
+		"answer_04_value":""
+	},	
+	{
+		"question":"Quais tags HTML são usadas para exibir os dados na forma tabular?",
+		"answer_01":"<table>, <tr>, <td>, <th>, <h1>, <a> e <p>",
+		"answer_02":"<p>, <a> e <div>",
+		"answer_03":"<h1>, <h2>, <body>, <head>",
+		"answer_04":"<table>, <tr>, <td>, <th>, <thead>, <tbody> e <tfoot>",
+		"answer_01_value":"",
+		"answer_02_value":"",
+		"answer_03_value":"",
+		"answer_04_value":"true"
+	},	
+	{
+		"question":"Qual a principal diferença entre CSS Grid e Flexbox?",
+		"answer_01":"Flexbox é unidimensional, ou seja, linha ou coluna e Grid é multidimensional, ou seja, linhas e colunas.",
+		"answer_02":"Grid é unidimensional, ou seja, linha ou coluna e Flexbox é multidimensional, ou seja, linhas e colunas.",
+		"answer_03":"Flexbox é utilizado para exibir imagens, enquanto Grid é utilizado para aplicar efeitos nesta.",
+		"answer_04":"Grid é um framework CSS para facilitar a criação dos layouts e Flexbox é as metodologias utilizadas por este framework.",
+		"answer_01_value":"true",
+		"answer_02_value":"",
+		"answer_03_value":"",
+		"answer_04_value":""
+	}	
+]
